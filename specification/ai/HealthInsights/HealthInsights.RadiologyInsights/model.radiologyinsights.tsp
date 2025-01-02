@@ -10,7 +10,7 @@ using TypeSpec.Versioning;
 
 namespace AzureHealthInsights;
 
-@doc("Contains the list of patients, and configuration data.")
+@doc("Contains the list of patients and configuration data.")
 model RadiologyInsightsData {
   ...Request;
 
